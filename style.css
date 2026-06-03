@@ -43,7 +43,7 @@ cursor: pointer;
 background-color: #2a7ae4;
 color: white;
 padding: 80px 8%;
-background-image: url("scr/banner.jpg");
+background-image: url("/scr/banner.png");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
